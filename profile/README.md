@@ -7,7 +7,7 @@
 
 # Overview
 
-KubeSlice is a framework to bring both multi-tenancy and multi-cluster capabilities to Kubernetes.
+KubeSlice is a framework to bring both multi-tenancy and multi-cluster capabilities to Kubernetes. For more information, see [overview](https://docs.avesha.io/opensource/page2285338658.html).
 
 # Architecture
 ...describe controller and worker architecture and how slices are applied to segment application spaces across one or more clusters...
