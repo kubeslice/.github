@@ -20,6 +20,7 @@ KubeSlice provides network services to applications that need secure and highly 
 * [gateway-sidecar](https://github.com/kubeslice/gateway-sidecar) - The slice VPN Gateway is a slice network service component that provides a secure VPN tunnel between any two clusters that are a part of the slice.
 * [router-sidecar](https://github.com/kubeslice/router-sidecar) - The slice Router is a network service component that provides a virtual L3 IP routing functionality within a cluster for the Slice overla network.
 * [apis](https://github.com/kubeslice/apis) - The kubeslice API is a part of the Kubeslice Controller, and this repository contains the scaffolding of all Custom Resource Definitions (CRDs).
+* [examples](https://github.com/kubeslice/examples) - KubeSlice usage example scripts and tools
 
 
 # Quick Start
