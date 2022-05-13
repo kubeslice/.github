@@ -26,6 +26,6 @@ KubeSlice provides network services to applications that need secure and highly 
 # Quick Start
 
 A quick and easy way to explore KubeSlice is to install it on _kind_ clusters.  
-For more information, see [getting started with kind clusters](https://docs.avesha.io/opensource/getting-started-with-kind-clusters).
+For more information, see [getting started with kind clusters](https://docs.avesha.io/opensource/getting-started-with-kind-clusters)... or try out the example script in [kind-based example](https://github.com/kubeslice/examples/tree/master/kind).
 
 For information on installing KubeSlice on cloud clusters, see [getting started with cloud clusters](https://docs.avesha.io/opensource/getting-started-with-cloud-clusters).
