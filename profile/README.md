@@ -31,8 +31,7 @@ For more information, see [getting started with kind clusters](https://docs.aves
 For information on installing KubeSlice on cloud clusters, see [getting started with cloud clusters](https://docs.avesha.io/opensource/getting-started-with-cloud-clusters).
 
 # Community 
-
-Join the KubeSlice community to learn and post your questions to get them answered. Learn more on the [community](https://docs.avesha.io/opensource/community).
+Join the KubeSlice community to learn and post your questions to get them answered. Learn more about the [community](https://docs.avesha.io/opensource/community).
 
 # Enterprise Edition
 For details on purchasing an enterprise edition of KubeSlice, reach us at contact@avesha.io.
