@@ -1,7 +1,6 @@
-# KubeSlice
+![KubeSlice](https://user-images.githubusercontent.com/99885802/169118120-1636d01b-b9d9-474c-9d08-ff54c8be0d2a.png)
+# KubeSlice  
 KubeSlice combines network, application, Kubernetes, and deployment services in a framework to accelerate application deployment in a multi-cluster, multi-tenant environment. KubeSlice achieves this by creating logical application _slice_ boundaries which allow pods and services to communicate seamlessly across clusters, clouds, edges, and data centers.
-
-![image](https://user-images.githubusercontent.com/99885802/166949543-ad5fa7ef-5560-4377-8a9e-91e693072422.png)
 
 
 # Overview
