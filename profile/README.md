@@ -5,10 +5,10 @@ KubeSlice combines network, application, Kubernetes, and deployment services in 
 
 # Overview
 
-KubeSlice is a framework to bring both multi-tenancy and multi-cluster capabilities to Kubernetes. For more information, see [overview](https://docs.avesha.io/opensource/kube-slice-overview).
+KubeSlice is a framework to bring both multi-tenancy and multi-cluster capabilities to Kubernetes. For more information, see [overview](https://docs.avesha.io/documentation/open-source/0.2.0/kubeslice-overview).
 
 # Architecture
-KubeSlice provides network services to applications that need secure and highly available connectivity between multiple clusters. KubeSlice creates a flat overlay network to connect the clusters. The overlay network can be described as an application slice that provides a slice of connectivity between the pods of an application running in multiple clusters. For more information, see [KubeSlice architecture](https://docs.avesha.io/opensource/kube-slice-architecture). 
+KubeSlice provides network services to applications that need secure and highly available connectivity between multiple clusters. KubeSlice creates a flat overlay network to connect the clusters. The overlay network can be described as an application slice that provides a slice of connectivity between the pods of an application running in multiple clusters. For more information, see [KubeSlice architecture](https://docs.avesha.io/documentation/open-source/0.2.0/kubeslice-architecture). 
 
 # Repositories
 * [kubeslice-controller](https://github.com/kubeslice/kubeslice-controller) -  The KubeSlice Controller orchestrates the creation and management of slices on worker clusters. The KubeSlice Controller components and the worker cluster components can coexist on a cluster. Hence, the cluster running the KubeSlice controller can also be used as a worker cluster.
@@ -25,12 +25,12 @@ KubeSlice provides network services to applications that need secure and highly 
 # Quick Start
 
 A quick and easy way to explore KubeSlice is to install it on _kind_ clusters.  
-For more information, see [getting started with kind clusters](https://docs.avesha.io/opensource/getting-started-with-kind-clusters)... or try out the example script in [kind-based example](https://github.com/kubeslice/examples/tree/master/kind).
+For more information, see [getting started with kind clusters](https://docs.avesha.io/documentation/open-source/0.2.0/getting-started-with-kind-clusters)... or try out the example script in [kind-based example](https://github.com/kubeslice/examples/tree/master/kind).
 
-For information on installing KubeSlice on cloud clusters, see [getting started with cloud clusters](https://docs.avesha.io/opensource/getting-started-with-cloud-clusters).
+For information on installing KubeSlice on cloud clusters, see [getting started with cloud clusters](https://docs.avesha.io/documentation/open-source/0.2.0/getting-started-with-cloud-clusters).
 
 # Community 
-Join the KubeSlice community to learn and post your questions to get them answered. Learn more about the [community](https://docs.avesha.io/opensource/community).
+Join the KubeSlice community to learn and post your questions to get them answered. Learn more about the [community](https://docs.avesha.io/documentation/open-source/0.2.0/community).
 
 # Enterprise Edition
 For details on purchasing an enterprise edition of KubeSlice, reach us at contact@avesha.io.
