@@ -33,4 +33,4 @@ For information on installing KubeSlice on cloud clusters, see [getting started 
 Join the KubeSlice community to learn and post your questions to get them answered. Learn more about the [community](https://docs.avesha.io/documentation/open-source/0.2.0/community).
 
 # Enterprise Edition
-For details on purchasing an enterprise edition of KubeSlice, reach us at contact@avesha.io.
+For details on purchasing an enterprise edition of KubeSlice, reach us at sales@avesha.io.
