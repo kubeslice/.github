@@ -41,6 +41,6 @@ We welcome contributions of any kind (pun fully intended). To start contributing
 Come hang out with us on the [KubeSlice channel]() in the [Kubernetes Slack](). Follow us on [Twitter]() and [Reddit]().
 
 
-# 🙏 Support
+# 🙏 Support us
 
-Don't forget to leave a star ⭐️ or fork the 
+Don't forget to leave a star ⭐️ and fork the repository. 
