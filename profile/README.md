@@ -23,7 +23,7 @@ There are several ways to get started with KubeSlice.
  
 # Can I start using KubeSlice?
 
-Yes! We have several organizations currently running KubeSlice in their test & lab environments. We would love for you to try it out and [provide feedback](#this-sounds-awesome-and-i-want-to-help). 
+Yes! We have several organizations currently running KubeSlice in their test & lab environments. We would love for you to try it out and [provide feedback](#woman_technologist-this-sounds-awesome-and-i-want-to-help). 
 
 
 # Architecture
@@ -46,15 +46,15 @@ The core components of KubeSlice are detailed below with links to their respecti
 
 # :woman_technologist: This sounds awesome and I want to help!!
 
-Welcome! We're glad you're onboard. 
+Welcome, we're so glad you're onboard!
 
-Some of the ways you can get started are by
+Check our [Project Contribution Guide](#) if there's any feedback/issue you want to flag with the codebase.
 
-# Community
+We also have a [Documentation Contribution Guide](#) for those looking to help better the documentation. 
 
-Come hang out with us on the [KubeSlice channel]() in the [Kubernetes Slack](). Follow us on [Twitter]() and [Reddit]().
+You can also reach us here, on GitHub, via [discussions](https://github.com/orgs/kubeslice/discussions) or
 
-
-# 🙏 Support us
-
-Don't forget to leave a star ⭐️ and fork the repository. 
+1. Join our mailing lists
+ - [kubeslice-dev](https://groups.google.com/g/kubeslice-dev/) for development discussions
+ - [kubeslice-users](https://groups.google.com/g/kubeslice-users/) for discussions among users & potential users.
+2. Join the [#kubeslice]() channel on the [Kubernetes Slack](https://slack.k8s.io)
