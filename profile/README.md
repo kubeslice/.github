@@ -20,6 +20,10 @@ There are several ways to get started with KubeSlice.
  - :books: Read our [documentation](https://kubeslice.io).
  - :computer: :construction: View the [Getting Started with KubeSlice]() video on YouTube.
  - :technologist: Get your hands dirty by trying out some [examples](https://github.com/kubeslice/examples)
+ 
+# Can I start using KubeSlice?
+
+Yes! We have several organizations currently running KubeSlice in their test & lab environments. We would love for you to try it out and [provide feedback](#this-sounds-awesome-and-i-want-to-help). 
 
 
 # Architecture
