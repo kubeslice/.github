@@ -5,13 +5,21 @@
 - KubeSlice enables [Kubernetes](https://kubernetes.io) pods and services to communicate seamlessly across clusters, clouds, edges, and data centers by creating logical application boundaries known as **Slices**. 
 - It combines network, application, and deployment services in a framework to accelerate application deployment in a multi-cluster, multi-tenant environment. 
 
+# Why would I want that?
+
+Today Kubernetes is mainly known as a container orchestration platform. However, as enterprises expand application architectures to span multiple clusters located in data centers or cloud provider regions, or across cloud providers, Kubernetes clusters need the ability to fully integrate connectivity and pod-to-pod communications with namespace propagation across clusters.
+
+Imagine enabling communication between clusters regardless of their physical location and without having to worry about IP addressing overlap. That's what KubeSlice achieves along with ensuring that your existing intra-cluster communication remains local. 
+
+How do we do it? With the help of an overlay network that creates network isolation. Let KubeSlice worry about the responsibility of allocating subnets that are configurable based on the number of pods allocated to have inter-cluster reachability.
+
 # Getting Started
 
 There are several ways to get started with KubeSlice.
 
- - :books: Read our [documentation]().
- - :computer: View the [Getting Started with KubeSlice]() on YouTube.
- - [![](https://gitpod.io/button/open-in-gitpod.svg)]()
+ - :books: Read our [documentation](https://kubeslice.io).
+ - :computer: :construction: View the [Getting Started with KubeSlice]() video on YouTube.
+ - :technologist: Get your hands dirty by trying out some [examples](https://github.com/kubeslice/examples)
 
 
 # Architecture
@@ -32,9 +40,11 @@ The core components of KubeSlice are detailed below with links to their respecti
 * [apis](https://github.com/kubeslice/apis) - The kubeslice API is a part of the Kubeslice Controller, and this repository contains the scaffolding of all Custom Resource Definitions (CRDs).
 
 
-# :woman_technologist: Contribute!
+# :woman_technologist: This sounds awesome and I want to help!!
 
-We welcome contributions of any kind (pun fully intended). To start contributing to our documentation, check out the [Documentation contribution guide](). For contributing to the codebase, check out the [Project contribution guide](). If you have any questions, please feel free to reach out to us on the [KubeSlice Slack channel]().
+Welcome! We're glad you're onboard. 
+
+Some of the ways you can get started are by
 
 # Community
 
