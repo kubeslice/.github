@@ -58,3 +58,4 @@ You can also reach us here, on GitHub, via [discussions](https://github.com/orgs
  - [kubeslice-dev](https://groups.google.com/g/kubeslice-dev/) for development discussions
  - [kubeslice-users](https://groups.google.com/g/kubeslice-users/) for discussions among users & potential users.
 2. Join the [#kubeslice]() channel on the [Kubernetes Slack](https://slack.k8s.io)
+3. Please consider supporting further development of this project by [starring the repo](https://github.com/kubeslice/charts) ⭐ 
