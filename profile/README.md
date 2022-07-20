@@ -48,14 +48,14 @@ The core components of KubeSlice are detailed below with links to their respecti
 
 Welcome, we're so glad you're onboard!
 
-Check our [Project Contribution Guide](#) if there's any feedback/issue you want to flag with the codebase.
+Check our :construction: [Project Contribution Guide](#) if there's any feedback/issue you want to flag with the codebase.
 
-We also have a [Documentation Contribution Guide](#) for those looking to help better the documentation. 
+We also have a :construction: [Documentation Contribution Guide](#) for those looking to help better the documentation. 
 
 You can also reach us here, on GitHub, via [discussions](https://github.com/orgs/kubeslice/discussions) or
 
 1. Join our mailing lists
  - [kubeslice-dev](https://groups.google.com/g/kubeslice-dev/) for development discussions
  - [kubeslice-users](https://groups.google.com/g/kubeslice-users/) for discussions among users & potential users.
-2. Join the [#kubeslice]() channel on the [Kubernetes Slack](https://slack.k8s.io)
+2. Join the **#kubeslice** channel on the [Kubernetes Slack](https://slack.k8s.io)
 3. Please consider supporting further development of this project by [starring the repo](https://github.com/kubeslice/charts) ⭐ 
