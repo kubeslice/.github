@@ -25,10 +25,13 @@ There are several ways to get started with KubeSlice.
 
 Yes! We have several organizations currently running KubeSlice in their test & lab environments. We would love for you to try it out and [provide feedback](#woman_technologist-this-sounds-awesome-and-i-want-to-help). 
 
-
 # Architecture
 
-KubeSlice creates a flat overlay network to connect Kubernetes clusters. The overlay network can be described as an application slice that provides a slice of connectivity between the pods of an application running in multiple clusters.  
+KubeSlice is a framework that brings both multi-tenancy and multi-cluster capabilities to Kubernetes by creating a flat overlay network to connect clusters. 
+
+The overlay network can be described as an application slice that provides a slice of connectivity between the pods of an application running in multiple clusters. 
+
+For more information, see [KubeSlice architecture](https://docs.avesha.io/documentation/open-source/0.2.0/architecture). 
 
 ![Architecture](https://cdn.avesha.io/cms-assets-local/Architecture_OS_f4ebbbda38.png)
 
