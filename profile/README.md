@@ -18,7 +18,7 @@ How do we do it? With the help of an overlay network that creates network isolat
 There are several ways to get started with KubeSlice.
 
  - :books: Read our [documentation](https://kubeslice.io).
- - :computer: :construction: View the [Getting Started with KubeSlice]() video on YouTube.
+ - :computer: :construction: View the [Getting Started with KubeSlice](https://www.youtube.com/watch?v=HNicEasUns0) video on YouTube.
  - :technologist: Get your hands dirty by trying out some [examples](https://github.com/kubeslice/examples)
  
 # Can I start using KubeSlice?
