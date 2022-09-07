@@ -46,7 +46,7 @@ The core components of KubeSlice are detailed below with links to their respecti
 * [kubeslice](https://github.com/kubeslice/kubeslice) - It contains applications provided by Avesha Systems that are ready to launch on Kubernetes using the Kubernetes Helm.
 * [netops](https://github.com/kubeslice/netops) - The NetOp Pods enforce the QoS Profile for a Slice. It uses Linux TC (Traffic Control) for Slice traffic classification.
 * [gateway-sidecar](https://github.com/kubeslice/gateway-sidecar) - The slice VPN Gateway is a slice network service component that provides a secure VPN tunnel between any two clusters that are a part of the slice.
-* [router-sidecar](https://github.com/kubeslice/router-sidecar) - The slice Router is a network service component that provides a virtual L3 IP routing functionality within a cluster for the Slice overla network.
+* [router-sidecar](https://github.com/kubeslice/router-sidecar) - The slice router is a network service component that provides a virtual L3 IP routing functionality within a cluster for the slice overlay network.
 * [apis](https://github.com/kubeslice/apis) - The kubeslice API is a part of the Kubeslice Controller, and this repository contains the scaffolding of all Custom Resource Definitions (CRDs).
 
 
