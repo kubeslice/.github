@@ -34,7 +34,7 @@ KubeSlice is a framework that brings both multi-tenancy and multi-cluster capabi
 
 The overlay network can be described as an application slice that provides a slice of connectivity between the pods of an application running in multiple clusters. 
 
-For more information, see [KubeSlice architecture](https://docs.avesha.io/documentation/open-source/0.2.0/architecture). 
+For more information, see [KubeSlice architecture](https://kubeslice.io/documentation/open-source/1.1.0/overview/architecture). 
 
 ![Architecture](https://cdn.avesha.io/cms-assets-local/Architecture_OS_f4ebbbda38.png)
 
