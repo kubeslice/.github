@@ -34,7 +34,7 @@ KubeSlice is a framework that brings both multi-tenancy and multi-cluster capabi
 
 The overlay network can be described as an application slice that provides a slice of connectivity between the pods of an application running in multiple clusters. 
 
-For more information, see [KubeSlice architecture](https://kubeslice.io/documentation/open-source/1.1.0/overview/architecture). 
+For more information, see [KubeSlice architecture](https://kubeslice.io/documentation/open-source/1.2.0/overview/architecture). 
 
 ![Architecture](https://cdn.avesha.io/cms-assets-local/Architecture_OS_f4ebbbda38.png)
 
@@ -54,9 +54,9 @@ The core components of KubeSlice are detailed below with links to their respecti
 
 Welcome, we're so glad you're onboard!
 
-Check our :construction: [Project Contribution Guide](#) if there's any feedback/issue you want to flag with the codebase.
+Check our :construction: [Project Contribution Guide](https://github.com/kubeslice/docs/blob/master/CONTRIBUTING.md) if there's any feedback/issue you want to flag with the codebase.
 
-We also have a :construction: [Documentation Contribution Guide](#) for those looking to help better the documentation. 
+We also have a :construction: [Documentation Contribution Guide](https://github.com/kubeslice/docs/blob/master/developer_guide.md) for those looking to help better the documentation. 
 
 You can also reach us here, on GitHub, via [discussions](https://github.com/orgs/kubeslice/discussions) or
 
