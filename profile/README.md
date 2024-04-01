@@ -17,6 +17,8 @@ How do we do it? With the help of an overlay network that creates network isolat
 
 There are several ways to get started with KubeSlice.
 
+ - 💽🫀: Try our [Sandbox](https://kubeslice.io/documentation/open-source/1.2.0/playground/sandbox} environment for four-hour free access. 
+ - 📓🔖 Try our [kubeslice-cli tutorials] (https://kubeslice.io/documentation/open-source/1.2.0/category/kubeslice-cli-tutorials/).
  - :books: Read our [documentation](https://kubeslice.io).
  - :computer: :construction: View the [Getting Started with KubeSlice](https://www.youtube.com/watch?v=HNicEasUns0) video on YouTube.
  - :technologist: Get your hands dirty by trying out some [examples](https://github.com/kubeslice/examples)
