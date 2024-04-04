@@ -17,8 +17,8 @@ How do we do it? With the help of an overlay network that creates network isolat
 
 There are several ways to get started with KubeSlice.
 
- - 💽🫀: Try our [Sandbox](https://kubeslice.io/documentation/open-source/1.2.0/playground/sandbox) environment for four-hour free access. 
- - 📓🔖 Try our [kubeslice-cli tutorials](https://kubeslice.io/documentation/open-source/1.2.0/category/kubeslice-cli-tutorials/).
+ - 💽🫀: Try our [Sandbox](https://kubeslice.io/documentation/open-source/1.3.0/playground/sandbox) environment for four-hour free access. 
+ - 📓🔖 Try our [kubeslice-cli tutorials](https://kubeslice.io/documentation/open-source/1.3.0/category/kubeslice-cli-tutorials/).
  - :books: Read our [documentation](https://kubeslice.io).
  - :computer: :construction: View the [Getting Started with KubeSlice](https://www.youtube.com/watch?v=HNicEasUns0) video on YouTube.
  - :technologist: Get your hands dirty by trying out some [examples](https://github.com/kubeslice/examples).
@@ -36,7 +36,7 @@ KubeSlice is a framework that brings both multi-tenancy and multi-cluster capabi
 
 The overlay network can be described as an application slice that provides a slice of connectivity between the pods of an application running in multiple clusters. 
 
-For more information, see [KubeSlice architecture](https://kubeslice.io/documentation/open-source/1.2.0/overview/architecture). 
+For more information, see [KubeSlice architecture](https://kubeslice.io/documentation/open-source/1.3.0/overview/architecture). 
 
 ![Architecture](https://cdn.avesha.io/cms-assets-local/Architecture_OS_f4ebbbda38.png)
 
