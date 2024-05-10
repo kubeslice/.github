@@ -60,7 +60,7 @@ Check our :construction: [Project Contribution Guide](https://github.com/kubesli
 
 We also have a :construction: [Documentation Contribution Guide](https://github.com/kubeslice/docs/blob/master/developer_guide.md) for those looking to help better the documentation. 
 
-You can also reach us here, on GitHub, via [discussions](https://github.com/orgs/kubeslice/discussions) or
+You can also reach us here, on GitHub, via [discussions](https://github.com/orgs/kubeslice/discussions) or join our [bi-weekly developer meetings](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2psOWMzcmdxcjJrdWxoZWJ0cHI1cG5rMGVfMjAyNDA1MTZUMTQwMDAwWiBlcmljQGF2ZXNoYXN5c3RlbXMuY29t&tmsrc=eric%40aveshasystems.com&scp=ALL) or
 
 1. Join our mailing lists
  - [kubeslice-dev](https://groups.google.com/g/kubeslice-dev/) for development discussions
