@@ -1,4 +1,4 @@
-![KubeSlice](https://user-images.githubusercontent.com/99885802/169118120-1636d01b-b9d9-474c-9d08-ff54c8be0d2a.png)
+![KubeSlice](https://github.com/cncf/artwork/blob/main/projects/kubeslice/stacked/color/kubeslice-stacked-color.png)
 
 # What is KubeSlice
 
