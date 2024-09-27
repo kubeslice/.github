@@ -25,7 +25,7 @@ There are several ways to get started with KubeSlice.
  
 # Can I start using KubeSlice?
 
-Yes! We have several organizations currently running KubeSlice in their test & lab environments. We would love for you to try it out and [provide feedback](#woman_technologist-this-sounds-awesome-and-i-want-to-help). 
+Yes! We have several organizations currently running KubeSlice. We would love for you to try it out and [provide feedback](#woman_technologist-this-sounds-awesome-and-i-want-to-help). 
 
 :notebook:
 An enterprise edition of KubeSlice is also available. Please feel free to contact sales@avesha.io for more information on the enterprise edition. 
